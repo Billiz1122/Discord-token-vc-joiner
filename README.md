@@ -6,7 +6,7 @@
 
 2. Add your account tokens into `tokens.txt` file 
 
-3. Run the script
+3. Run the file
    ```
    run.bat
    ```
