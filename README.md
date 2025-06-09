@@ -2,11 +2,11 @@
 ### Installation
 
 
-1. Enter your your SERVER ID, VOICE CHANNEL ID  in `config.json`
+3. Enter your GUILD ID , VOICE CHANNEL ID  in `config.json`
 
-2. Add your account tokens into `tokens.txt` file 
+4. Add your account tokens into `tokens.txt` file 
 
-3. Run the file
+5. Run the file
    ```
    run.bat
    ```
