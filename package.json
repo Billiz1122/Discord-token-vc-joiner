@@ -18,17 +18,8 @@
     "vc-runner": "file:",
     "ws": "^8.18.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/00nx/vc-runner.git"
-  },
-  "author": "t.me/misjudgment",
+  "author": "billiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/00nx/vc-runner/issues"
-  },
-  "homepage": "https://github.com/00nx/vc-runner#readme"
-}
+    "url": "https://github.com/Billiz1122/Discord-token-vc-joiner"
+  }
